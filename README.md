@@ -1,6 +1,6 @@
-# Blockchain Prototype JS
+# ProofChain
 
-A JavaScript blockchain prototype that demonstrates the core mechanics behind distributed ledger systems: blocks, transactions, proof of work, peer-to-peer node registration, transaction broadcasting, mining rewards, and longest-chain consensus.
+ProofChain is a JavaScript blockchain prototype that demonstrates the core mechanics behind distributed ledger systems: blocks, transactions, proof of work, peer-to-peer node registration, transaction broadcasting, mining rewards, and longest-chain consensus.
 
 This project is intentionally lightweight and readable. It is designed to show how blockchain concepts work under the hood without hiding the logic behind frameworks or external blockchain platforms.
 
@@ -14,7 +14,7 @@ Blockchain is often discussed as a business buzzword, but the real value comes f
 - Consensus rules for resolving competing versions of the chain
 - Incentives through mining rewards
 
-This prototype turns those ideas into a working Node.js API, making it useful for demos, interviews, technical learning, and architecture discussions.
+ProofChain turns those ideas into a working Node.js API, making it useful for demos, interviews, technical learning, and architecture discussions.
 
 ## Technical Highlights
 
@@ -225,7 +225,7 @@ Compares the current chain with peer chains and adopts the longest valid chain w
 
 ## Business Use Cases Demonstrated
 
-This prototype can help explain or demo:
+ProofChain can help explain or demo:
 
 - Distributed ledgers for financial transactions
 - Audit trails where tamper evidence matters
@@ -235,7 +235,7 @@ This prototype can help explain or demo:
 
 ## Current Scope
 
-This is a prototype for learning and demonstration. It focuses on clarity and blockchain fundamentals, not production readiness.
+ProofChain is a prototype for learning and demonstration. It focuses on clarity and blockchain fundamentals, not production readiness.
 
 Production-grade blockchain systems would also require:
 
